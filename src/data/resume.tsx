@@ -91,7 +91,7 @@ I enjoy designing systems that are **durable, failure-resilient, and infra-aware
       title: "Software Engineer Intern",
       logoUrl: "/atlan_hq_logo.jpeg",
       start: "June 2025",
-      end: "Present",
+      end: "Dec 2025",
       description: `
       • Advanced Atlan’s enterprise readiness by designing and launching an official Microsoft Teams Marketplace App, replacing legacy custom app.
 • Architected a production-ready, highly available and scalable distributed microservice enabling the Teams Marketplace app integration across Atlan's multi-tenant architecture.
