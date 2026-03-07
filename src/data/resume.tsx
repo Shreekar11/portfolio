@@ -11,9 +11,9 @@ export const DATA = {
     "21 year old Full-Stack Engineer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
   summary: `**Software engineer** focused on **distributed systems**, **workflow orchestration**, **production-grade infrastructure** and **frontend systems**.
 
-At **Atlan**, I built a **multi-tenant microservice** for **Microsoft Teams Marketplace integration**, redesigning the architecture around **event-driven patterns** and **multi-cloud deployment (AWS + Azure)**. **Reduced** enterprise onboarding time by **~95%** and resolved critical production bottlenecks, including a **~96% memory optimization OOM** issue for a critical microservice
+At **Atlan**, I built a **multi-tenant microservice** for **Microsoft Teams Marketplace integration**, redesigning the architecture around **event-driven patterns** and **multi-cloud deployment (AWS + Azure)**. **Reduced** enterprise onboarding time by **~95%** and resolved critical production bottlenecks, including a **~96% memory optimization (**~750MB to ~30MB** memory redcution) OOM** issue for a critical microservice
 
-Previously at a **YC-backed startup**, I worked on **0→1 system design** for an AI hiring platform — building **real-time AI interview infrastructure**, **distributed notification processing** pipelines, and **scalable cloud deployments** over GCP.
+Previously at a **YC-backed startup**, I worked on **0→1 system design** for an AI hiring platform — building **real-time AI interview infrastructure**, **distributed notification processing** pipelines, **scalable cloud deployments** over GCP and drove **1000+** talents / users within first week of the launch.
 
 I enjoy designing systems that are **durable, failure-resilient, and infra-aware**. I'm also increasingly exploring AI-integrated backend architectures (RAG, vector + graph retrieval).`,
   avatarUrl: "/profile.jpg",
