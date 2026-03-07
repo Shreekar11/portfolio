@@ -8,7 +8,7 @@ export const DATA = {
   location: "Pune, India",
   locationLink: "https://www.google.com/maps/place/pune",
   description:
-    "21 year old Full-Stack Engineer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
+    "21 year old Software Engineer, System Design and Distributed systems Enthusiast and also an Engineering Student.",
   summary: `**Software engineer** focused on **distributed systems**, **workflow orchestration**, **production-grade infrastructure** and **frontend systems**.
 
 At **Atlan**, I built a **multi-tenant microservice** for **Microsoft Teams Marketplace integration**, redesigning the architecture around **event-driven patterns** and **multi-cloud deployment (AWS + Azure)**. **Reduced** enterprise onboarding time by **~95%** and resolved critical production bottlenecks, including a **~96% memory optimization (**~750MB to ~30MB** memory redcution) OOM** issue for a critical microservice
