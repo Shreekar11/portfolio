@@ -11,8 +11,8 @@ export const DATA = {
     "21 year old, Software Engineer, System Design and Distributed Systems Enthusiast.",
   summary: `**Software engineer** focused on **distributed systems**, **workflow orchestration**, **production-grade infrastructure** and **frontend systems**.
 
-At **Atlan**, I built a **multi-tenant microservice** for **Microsoft Teams Marketplace integration**, redesigning the architecture around **event-driven patterns** and **multi-cloud deployment (AWS + Azure)**. **Reduced** enterprise onboarding time by **~95%** and resolved critical production bottlenecks, including a **~96% memory optimization** (**~750MB to ~30MB** memory redcution) **OOM** issue for a critical microservice.
-Previously at a **YC-backed startup**, I **owned** the **0→1 development** of an AI hiring platform, building **real-time AI interview infrastructure**, **distributed notification processing** pipelines, **scalable cloud deployments** over GCP and drove **1000+** talents / users within first week of the launch.
+At **Atlan**, I built a **multi-tenant microservice** for **Microsoft Teams Marketplace integration**, redesigning the architecture around **event-driven patterns** and **multi-cloud deployment (AWS + Azure)**. **Reduced** enterprise onboarding time by **~95%** and resolved critical production bottlenecks, including a **~96% memory optimization** (**~750MB to ~30MB** memory redcution) **OOM** issue for a critical microservice.\n
+Previously at a **YC-backed startup**, I **owned** the **0→1 development** of an AI hiring platform, building **real-time AI interview infrastructure**, **distributed notification processing** pipelines, **scalable cloud deployments** over GCP and drove **1000+** talents / users within first week of the launch.\n
 I enjoy designing systems that are **durable, failure-resilient, and infra-aware**. I'm also increasingly exploring AI-integrated backend architectures (RAG, vector + graph retrieval) + AI Agentic systems.`,
   avatarUrl: "/profile.jpg",
   skills: [
