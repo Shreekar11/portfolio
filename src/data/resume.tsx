@@ -113,6 +113,7 @@ I enjoy designing systems that are **durable, failure-resilient, and infra-aware
       start: "June 2024",
       end: "Dec 2024",
       description: `
+      • Joined as an early engineer and involved in building AI-native products from ground up.
       • Led 0 → 1 development of Joinarena.ai – an AI-powered hiring platform streamlining recruitment workflows by building a highly scalable and distributed system using Next.js, Node.js, and TypeScript.
 • Drove early traction with 1,000+ talent signups within the first week of launch.
 • Engineered a real-time AI interviewing system using LiveKit (WebRTC) with AI voice agents capable of resume-aware questioning and contextual follow-ups, increasing candidate engagement by 54%.
